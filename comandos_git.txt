@@ -1,0 +1,13 @@
+Comando para clonar un proyecto:
+
+git clone --depth=16 URL del proyecto ==> por ejemplo (https://github.com/angular/angular-phonecat.git)
+
+Para subir un archivo hay que ubicarse en la carpeta del repositorio y seguir estos pasos:
+
+git add archivo
+git commit -m "comentario"
+git push
+
+Para añadir varios archivos del mismo tipo se puede tipear el siguiente comando
+
+git add '*.txt'
