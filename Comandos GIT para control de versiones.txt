@@ -7,7 +7,3 @@ Para subir un archivo hay que ubicarse en la carpeta del repositorio y seguir es
 git add archivo
 git commit -m "comentario"
 git push
-
-Para añadir varios archivos del mismo tipo se puede tipear el siguiente comando
-
-git add '*.txt'
